@@ -1,6 +1,6 @@
-![](https://github.com/user-attachments/assets/d9ce7487-3792-419f-80f2-c397db769d68)
+![](https://github.com/user-attachments/assets/8883852d-ddf1-4d5b-8b47-b0173459d6ff)
 
-# Awesome EIP-7702 Delegations ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+# Awesome EIP-7702 Delegations
 
 A curated list of awesome [EIP-7702](https://eips.ethereum.org/EIPS/eip-7702) delegation destinations. 
 
