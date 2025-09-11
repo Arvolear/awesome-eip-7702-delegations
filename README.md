@@ -1,6 +1,6 @@
 # Awesome EIP-7702 Delegations
 
-![](https://github.com/user-attachments/assets/8883852d-ddf1-4d5b-8b47-b0173459d6ff)
+![](https://github.com/user-attachments/assets/08e856a7-28f8-401a-8fdd-7cb2cd561d3c)
 
 A curated list of awesome [EIP-7702](https://eips.ethereum.org/EIPS/eip-7702) delegation destinations. 
 
@@ -10,6 +10,7 @@ A curated list of awesome [EIP-7702](https://eips.ethereum.org/EIPS/eip-7702) de
 
 |         Resource        |          Tags         |       Description       |
 |-------------------------|-----------------------|-------------------------|
+| [Recoverable Account from Solarity](https://github.com/dl-solarity/solidity-lib/blob/master/contracts/account-abstraction/ARecoverableAccount.sol) | Batching, Gas Sponsorhip, Recovery | All-in-one EIP-7702/ERC-4337 smart account with ERC-7821 batching, ERC-4337 gas sponsorship, and ERC-7947 recovery mechanics. |
 | [BEBE by Vectorized](https://github.com/Vectorized/bebe) | Statelessness, Hyperoptimization | A basic stateless [ERC-7821](https://eips.ethereum.org/EIPS/eip-7821) style batch executor contract for EOAs to delegate to. |
 | [Stateless DeleGator from MetaMask](https://etherscan.io/address/0x63c0c19a282a1b52b07dd5a65b58948a07dae32b#code) | [ERC-7710](https://eips.ethereum.org/EIPS/eip-7710), [ERC-4337](https://eips.ethereum.org/EIPS/eip-4337) | A smart account used in MetaMask wallet, supporting multiple execution modes, gas sponsorship, and delegation. |
 | [Simple Smart Account from Ambire](https://github.com/AmbireTech/ambire-common/blob/v2/contracts/AmbireAccount7702.sol) | ERC-4337, Authorization | A simple smart account used in Ambire wallet. |
